@@ -1,0 +1,200 @@
+"dept_id","dept_name","head_of_dept","total_students","total_faculty","building_name","year","email"
+2,Mechanical Engineering,Dr. Ravi Patel,270,15,Innovation Hall,2018,mechanicalengineering@university.com
+3,Economics,Dr. Kiran Singh,312,14,Science Tower,2008,economics@university.com
+4,Biology,Dr. Priya Das,193,19,North Campus,2016,biology@university.com
+5,Law,Dr. Anil Iyer,255,23,West Pavilion,2003,law@university.com
+6,Physics,Dr. Pooja Nair,278,16,Research Wing,2004,physics@university.com
+7,Data Science,Dr. Amit Verma,230,11,Tech Block A,2015,datascience@university.com
+8,Civil Engineering,Dr. Rajesh Kaur,384,13,East Wing,2006,civilengineering@university.com
+9,Psychology,Dr. Meera Patel,199,21,Main Building,2007,psychology@university.com
+10,Mathematics,Dr. Sneha Banerjee,336,20,Central Block,2002,mathematics@university.com
+11,Computer Science,Dr. Vikram Mehta,320,17,Innovation Hall,2020,computerscience@university.com
+12,Electrical Engineering,Dr. Sunita Verma,232,19,Science Tower,2010,electricalengineering@university.com
+13,Political Science,Dr. Priya Chopra,219,14,Research Wing,2013,politicalscience@university.com
+14,Business Administration,Dr. Rajesh Singh,288,18,Tech Block A,2011,businessadministration@university.com
+15,Architecture,Dr. Kiran Mehta,270,12,West Pavilion,2005,architecture@university.com
+16,Environmental Science,Dr. Sneha Rao,310,17,Main Building,2019,environmentalscience@university.com
+17,Accounting,Dr. Nisha Verma,256,13,South Annex,2009,accounting@university.com
+18,Finance,Dr. Anil Mehta,330,15,Tech Block A,2010,finance@university.com
+19,Marketing,Dr. Sunita Patel,346,16,Innovation Hall,2021,marketing@university.com
+20,History,Dr. Ravi Banerjee,221,19,Science Tower,1999,history@university.com
+21,Philosophy,Dr. Meera Verma,248,14,Central Block,2003,philosophy@university.com
+22,English Literature,Dr. Priya Kaur,287,17,Main Building,2017,englishliterature@university.com
+23,Chemistry,Dr. Kiran Das,293,21,Science Tower,2014,chemistry@university.com
+24,Geography,Dr. Anil Singh,242,11,North Campus,2001,geography@university.com
+25,Statistics,Dr. Nisha Patel,189,15,South Annex,2020,statistics@university.com
+26,Design,Dr. Rajesh Verma,299,20,West Pavilion,2006,design@university.com
+27,Cyber Security,Dr. Sneha Sharma,315,22,Research Wing,2018,cybersecurity@university.com
+28,Robotics,Dr. Ravi Mehta,278,23,Tech Block A,2015,robotics@university.com
+29,Medicine,Dr. Meera Nair,360,24,Science Tower,2009,medicine@university.com
+30,Pharmacy,Dr. Amit Das,334,15,Main Building,2004,pharmacy@university.com
+31,Nursing,Dr. Pooja Patel,192,10,West Pavilion,2010,nursing@university.com
+32,Public Health,Dr. Sunita Mehta,218,18,Research Wing,2021,publichealth@university.com
+33,Aerospace Engineering,Dr. Rajesh Rao,279,17,Innovation Hall,2017,aerospaceengineering@university.com
+34,Biotechnology,Dr. Sneha Nair,205,19,Science Tower,2008,biotechnology@university.com
+35,Urban Planning,Dr. Anil Banerjee,331,21,Main Building,2013,urbanplanning@university.com
+36,Food Technology,Dr. Priya Iyer,284,22,Central Block,2007,foodtechnology@university.com
+37,Genetics,Dr. Vikram Verma,240,20,Science Tower,2012,genetics@university.com
+38,Botany,Dr. Meera Singh,172,14,Research Wing,2000,botany@university.com
+39,Zoology,Dr. Ravi Mehta,222,13,Innovation Hall,2015,zoology@university.com
+40,Anthropology,Dr. Sunita Patel,234,20,Main Building,2016,anthropology@university.com
+41,Criminology,Dr. Pooja Verma,198,19,West Pavilion,2010,criminology@university.com
+42,International Relations,Dr. Priya Singh,223,18,Science Tower,2002,internationalrelations@university.com
+43,Education,Dr. Anil Nair,249,15,South Annex,2014,education@university.com
+44,Music,Dr. Ravi Verma,185,10,Central Block,2019,music@university.com
+45,Fine Arts,Dr. Meera Mehta,210,11,West Pavilion,2003,finearts@university.com
+46,Theatre,Dr. Rajesh Iyer,178,14,Main Building,2008,theatre@university.com
+47,Film Studies,Dr. Nisha Patel,205,15,South Annex,2017,filmstudies@university.com
+48,Media Studies,Dr. Amit Singh,265,16,Research Wing,2011,mediastudies@university.com
+49,Library Science,Dr. Kiran Rao,288,17,North Campus,2005,libraryscience@university.com
+50,Tourism Management,Dr. Sneha Verma,198,18,Innovation Hall,2022,tourismmanagement@university.com
+51,Hospitality Management,Dr. Ravi Mehta,240,20,Science Tower,2004,hospitalitymanagement@university.com
+52,Computer Science,Dr. Anil Kaur,340,16,Tech Block A,2009,computerscience@university.com
+53,Electrical Engineering,Dr. Pooja Mehta,312,21,Innovation Hall,2010,electricalengineering@university.com
+54,Mechanical Engineering,Dr. Rajesh Patel,298,17,Research Wing,2011,mechanicalengineering@university.com
+55,Data Science,Dr. Sunita Sharma,354,15,Science Tower,2014,datascience@university.com
+56,Artificial Intelligence,Dr. Kiran Mehta,276,18,Tech Block A,2020,artificialintelligence@university.com
+57,Civil Engineering,Dr. Amit Patel,296,19,Central Block,2008,civilengineering@university.com
+58,Chemistry,Dr. Meera Banerjee,249,15,Science Tower,2012,chemistry@university.com
+59,Physics,Dr. Sneha Iyer,312,13,Research Wing,2017,physics@university.com
+60,Mathematics,Dr. Anil Verma,290,14,Main Building,2015,mathematics@university.com
+61,Biology,Dr. Pooja Singh,188,12,West Pavilion,2003,biology@university.com
+62,Economics,Dr. Priya Verma,260,17,Innovation Hall,2010,economics@university.com
+63,Psychology,Dr. Meera Mehta,236,14,Main Building,2005,psychology@university.com
+64,History,Dr. Rajesh Das,223,16,South Annex,2014,history@university.com
+65,Philosophy,Dr. Nisha Nair,276,13,Research Wing,2011,philosophy@university.com
+66,English Literature,Dr. Amit Kaur,198,18,Science Tower,2007,englishliterature@university.com
+67,Political Science,Dr. Vikram Mehta,214,14,Central Block,2004,politicalscience@university.com
+68,Sociology,Dr. Sunita Patel,228,19,West Pavilion,2019,sociology@university.com
+69,Anthropology,Dr. Priya Verma,308,20,Research Wing,2001,anthropology@university.com
+70,Accounting,Dr. Anil Singh,241,16,Science Tower,2008,accounting@university.com
+71,Finance,Dr. Kiran Nair,350,13,Main Building,2006,finance@university.com
+72,Marketing,Dr. Sneha Patel,319,18,Innovation Hall,2013,marketing@university.com
+73,Human Resource Management,Dr. Rajesh Mehta,276,15,Central Block,2002,humanresourcemanagement@university.com
+74,Operations Management,Dr. Ravi Sharma,255,17,West Pavilion,2009,operationsmanagement@university.com
+75,Business Administration,Dr. Nisha Mehta,295,19,Tech Block A,2016,businessadministration@university.com
+76,Architecture,Dr. Meera Patel,267,15,Science Tower,2018,architecture@university.com
+77,Environmental Science,Dr. Priya Mehta,222,11,Research Wing,2005,environmentalscience@university.com
+78,Public Health,Dr. Amit Banerjee,244,17,South Annex,2019,publichealth@university.com
+79,Nursing,Dr. Vikram Verma,215,10,Main Building,2014,nursing@university.com
+80,Pharmacy,Dr. Sneha Mehta,358,22,Science Tower,2006,pharmacy@university.com
+81,Medicine,Dr. Rajesh Nair,388,23,Research Wing,2020,medicine@university.com
+82,Veterinary Science,Dr. Sunita Singh,177,14,West Pavilion,2007,veterinaryscience@university.com
+83,Agricultural Science,Dr. Meera Patel,230,18,Innovation Hall,2011,agriculturalscience@university.com
+84,Food Technology,Dr. Kiran Verma,309,19,Science Tower,2013,foodtechnology@university.com
+85,Marine Biology,Dr. Priya Banerjee,267,16,Research Wing,2010,marinebiology@university.com
+86,Genetics,Dr. Amit Mehta,312,18,Central Block,2001,genetics@university.com
+87,Zoology,Dr. Ravi Singh,256,14,Main Building,2009,zoology@university.com
+88,Botany,Dr. Sneha Nair,202,11,Science Tower,2008,botany@university.com
+89,Design,Dr. Meera Sharma,293,20,Innovation Hall,2015,design@university.com
+90,Fine Arts,Dr. Pooja Verma,222,14,Research Wing,2004,finearts@university.com
+91,Music,Dr. Rajesh Mehta,179,10,South Annex,2019,music@university.com
+92,Theatre,Dr. Nisha Patel,207,11,Main Building,2002,theatre@university.com
+93,Film Studies,Dr. Priya Verma,288,18,Science Tower,2018,filmstudies@university.com
+94,Media Studies,Dr. Anil Mehta,314,20,Research Wing,2007,mediastudies@university.com
+95,Library Science,Dr. Vikram Iyer,260,16,North Campus,2016,libraryscience@university.com
+96,Tourism Management,Dr. Sunita Verma,202,15,South Annex,2014,tourismmanagement@university.com
+97,Hospitality Management,Dr. Ravi Banerjee,244,14,Main Building,2009,hospitalitymanagement@university.com
+98,Urban Planning,Dr. Meera Singh,312,18,Science Tower,2011,urbanplanning@university.com
+99,Criminology,Dr. Pooja Kaur,228,19,Innovation Hall,2003,criminology@university.com
+100,International Relations,Dr. Rajesh Mehta,318,21,Research Wing,2022,internationalrelations@university.com
+101,Architecture,Dr. Priya Patel,254,14,Science Tower,2017,architecture@university.com
+102,Environmental Science,Dr. Anil Nair,292,15,Main Building,2001,environmentalscience@university.com
+103,Philosophy,Dr. Sneha Verma,243,13,Central Block,2014,philosophy@university.com
+104,Physics,Dr. Rajesh Mehta,312,21,Science Tower,2018,physics@university.com
+105,Statistics,Dr. Pooja Verma,277,12,West Pavilion,2004,statistics@university.com
+106,Mathematics,Dr. Meera Patel,244,20,Research Wing,2006,mathematics@university.com
+107,Computer Science,Dr. Ravi Iyer,324,18,Innovation Hall,2015,computerscience@university.com
+108,Cyber Security,Dr. Nisha Mehta,293,17,Tech Block A,2020,cybersecurity@university.com
+109,Artificial Intelligence,Dr. Amit Patel,337,22,Science Tower,2009,artificialintelligence@university.com
+110,Data Science,Dr. Priya Banerjee,311,19,Research Wing,2007,datascience@university.com
+111,Biotechnology,Dr. Kiran Mehta,278,14,Innovation Hall,2011,biotechnology@university.com
+112,Aerospace Engineering,Dr. Rajesh Verma,284,20,Science Tower,2012,aerospaceengineering@university.com
+113,Civil Engineering,Dr. Meera Mehta,315,17,Tech Block A,2010,civilengineering@university.com
+114,Electrical Engineering,Dr. Sneha Das,294,13,Innovation Hall,2005,electricalengineering@university.com
+115,Mechanical Engineering,Dr. Ravi Mehta,304,15,Science Tower,2002,mechanicalengineering@university.com
+116,Economics,Dr. Anil Kaur,263,17,Central Block,2016,economics@university.com
+117,History,Dr. Pooja Verma,223,14,South Annex,2008,history@university.com
+118,Political Science,Dr. Priya Mehta,298,15,Main Building,2013,politicalscience@university.com
+119,Sociology,Dr. Amit Verma,254,11,Research Wing,2019,sociology@university.com
+120,Psychology,Dr. Rajesh Patel,236,12,Science Tower,2020,psychology@university.com
+121,Biology,Dr. Sunita Verma,212,14,Science Tower,2007,biology@university.com
+122,Chemistry,Dr. Meera Singh,296,18,Research Wing,2004,chemistry@university.com
+123,Genetics,Dr. Pooja Patel,288,16,Central Block,2010,genetics@university.com
+124,Zoology,Dr. Amit Mehta,260,15,Main Building,2011,zoology@university.com
+125,Botany,Dr. Ravi Nair,202,12,Science Tower,2003,botany@university.com
+126,Food Technology,Dr. Sneha Kaur,330,19,Innovation Hall,2016,foodtechnology@university.com
+127,Marine Biology,Dr. Priya Verma,285,18,Research Wing,2012,marinebiology@university.com
+128,Agricultural Science,Dr. Rajesh Mehta,312,17,Science Tower,2009,agriculturalscience@university.com
+129,Public Health,Dr. Meera Banerjee,270,14,South Annex,2005,publichealth@university.com
+130,Pharmacy,Dr. Nisha Verma,350,23,Science Tower,2014,pharmacy@university.com
+131,Medicine,Dr. Amit Iyer,386,21,Research Wing,2018,medicine@university.com
+132,Nursing,Dr. Priya Patel,214,13,Main Building,2019,nursing@university.com
+133,Law,Dr. Sneha Mehta,245,16,Innovation Hall,2008,law@university.com
+134,Business Administration,Dr. Rajesh Nair,298,18,Science Tower,2012,businessadministration@university.com
+135,Accounting,Dr. Sunita Singh,262,12,West Pavilion,2001,accounting@university.com
+136,Finance,Dr. Ravi Mehta,344,19,Tech Block A,2015,finance@university.com
+137,Marketing,Dr. Pooja Verma,326,20,Science Tower,2009,marketing@university.com
+138,Human Resource Management,Dr. Anil Kaur,252,15,Central Block,2005,humanresourcemanagement@university.com
+139,Operations Management,Dr. Meera Mehta,275,13,South Annex,2017,operationsmanagement@university.com
+140,Economics,Dr. Priya Singh,284,14,Research Wing,2010,economics@university.com
+141,History,Dr. Sneha Verma,241,12,Main Building,2011,history@university.com
+142,Philosophy,Dr. Ravi Mehta,234,11,Science Tower,2003,philosophy@university.com
+143,English Literature,Dr. Amit Patel,255,14,West Pavilion,2015,englishliterature@university.com
+144,Political Science,Dr. Nisha Verma,210,15,Central Block,2019,politicalscience@university.com
+145,Sociology,Dr. Rajesh Sharma,240,13,Research Wing,2008,sociology@university.com
+146,Anthropology,Dr. Meera Banerjee,273,17,Main Building,2002,anthropology@university.com
+147,Criminology,Dr. Sunita Patel,225,16,Innovation Hall,2018,criminology@university.com
+148,International Relations,Dr. Priya Nair,258,14,Science Tower,2014,internationalrelations@university.com
+149,Architecture,Dr. Ravi Verma,266,15,Research Wing,2007,architecture@university.com
+150,Environmental Science,Dr. Sneha Mehta,324,18,Science Tower,2013,environmentalscience@university.com
+151,Physics,Dr. Rajesh Iyer,298,19,Main Building,2017,physics@university.com
+152,Mathematics,Dr. Kiran Patel,306,17,Science Tower,2006,mathematics@university.com
+153,Statistics,Dr. Pooja Verma,254,13,Research Wing,2004,statistics@university.com
+154,Chemistry,Dr. Meera Mehta,273,16,South Annex,2009,chemistry@university.com
+155,Biology,Dr. Amit Kaur,294,15,Science Tower,2015,biology@university.com
+156,Botany,Dr. Rajesh Verma,190,12,Main Building,2002,botany@university.com
+157,Zoology,Dr. Sneha Patel,218,14,Innovation Hall,2018,zoology@university.com
+158,Genetics,Dr. Ravi Nair,300,18,Research Wing,2005,genetics@university.com
+159,Biotechnology,Dr. Priya Mehta,284,20,Science Tower,2016,biotechnology@university.com
+160,Aerospace Engineering,Dr. Sunita Verma,276,17,Innovation Hall,2010,aerospaceengineering@university.com
+161,Civil Engineering,Dr. Rajesh Mehta,332,16,Tech Block A,2007,civilengineering@university.com
+162,Mechanical Engineering,Dr. Pooja Nair,345,21,Science Tower,2013,mechanicalengineering@university.com
+163,Electrical Engineering,Dr. Meera Singh,290,19,Innovation Hall,2011,electricalengineering@university.com
+164,Computer Science,Dr. Anil Verma,342,17,Tech Block A,2014,computerscience@university.com
+165,Data Science,Dr. Priya Patel,314,18,Science Tower,2019,datascience@university.com
+166,Artificial Intelligence,Dr. Sneha Mehta,335,20,Research Wing,2020,artificialintelligence@university.com
+167,Cyber Security,Dr. Rajesh Banerjee,305,21,Tech Block A,2015,cybersecurity@university.com
+168,Robotics,Dr. Kiran Patel,270,19,Innovation Hall,2017,robotics@university.com
+169,Design,Dr. Meera Verma,299,15,Main Building,2010,design@university.com
+170,Fine Arts,Dr. Amit Nair,206,11,Science Tower,2009,finearts@university.com
+171,Music,Dr. Ravi Singh,185,10,Central Block,2001,music@university.com
+172,Theatre,Dr. Sneha Verma,193,11,West Pavilion,2006,theatre@university.com
+173,Film Studies,Dr. Rajesh Mehta,245,13,Science Tower,2008,filmstudies@university.com
+174,Media Studies,Dr. Sunita Patel,273,14,Research Wing,2012,mediastudies@university.com
+175,Library Science,Dr. Priya Verma,282,17,Science Tower,2013,libraryscience@university.com
+176,Tourism Management,Dr. Amit Patel,236,15,Main Building,2019,tourismmanagement@university.com
+177,Hospitality Management,Dr. Ravi Banerjee,260,18,Research Wing,2007,hospitalitymanagement@university.com
+178,Urban Planning,Dr. Meera Singh,293,16,Science Tower,2003,urbanplanning@university.com
+179,Public Health,Dr. Sneha Verma,255,15,Central Block,2015,publichealth@university.com
+180,Pharmacy,Dr. Rajesh Mehta,320,22,Science Tower,2021,pharmacy@university.com
+181,Medicine,Dr. Priya Nair,384,24,Research Wing,2017,medicine@university.com
+182,Nursing,Dr. Amit Kaur,216,13,Main Building,2011,nursing@university.com
+183,Veterinary Science,Dr. Kiran Patel,201,11,Science Tower,2004,veterinaryscience@university.com
+184,Agricultural Science,Dr. Meera Verma,272,18,Research Wing,2009,agriculturalscience@university.com
+185,Food Technology,Dr. Pooja Mehta,312,19,Science Tower,2013,foodtechnology@university.com
+186,Marine Biology,Dr. Rajesh Verma,288,17,Innovation Hall,2018,marinebiology@university.com
+187,Genetics,Dr. Sneha Verma,266,16,Science Tower,2007,genetics@university.com
+188,Botany,Dr. Ravi Mehta,214,14,Main Building,2014,botany@university.com
+189,Zoology,Dr. Sunita Patel,238,13,Science Tower,2010,zoology@university.com
+190,Biotechnology,Dr. Priya Verma,284,19,Research Wing,2015,biotechnology@university.com
+191,Chemical Engineering,Dr. Amit Mehta,310,21,Innovation Hall,2016,chemicalengineering@university.com
+192,Physics,Dr. Rajesh Patel,277,17,Science Tower,2008,physics@university.com
+193,Mathematics,Dr. Sneha Verma,266,15,Main Building,2002,mathematics@university.com
+194,Statistics,Dr. Priya Singh,228,13,Science Tower,2005,statistics@university.com
+195,Computer Science,Dr. Amit Verma,334,18,Tech Block A,2013,computerscience@university.com
+196,Electrical Engineering,Dr. Meera Patel,310,17,Innovation Hall,2010,electricalengineering@university.com
+197,Mechanical Engineering,Dr. Rajesh Verma,298,19,Science Tower,2014,mechanicalengineering@university.com
+198,Civil Engineering,Dr. Sneha Mehta,327,20,Tech Block A,2020,civilengineering@university.com
+199,Data Science,Dr. Kiran Patel,318,22,Science Tower,2018,datascience@university.com
+200,Artificial Intelligence,Dr. Priya Mehta,330,21,Research Wing,2021,artificialintelligence@university.com
